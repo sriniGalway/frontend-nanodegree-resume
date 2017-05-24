@@ -3,7 +3,7 @@ var work = {
            "employer": "Insight centre for Data Analytics",
            "title": "Research Assistant", 
            "location": "Galway, Ireland",
-           "dates": "July 2015 - Future",
+           "dates": "July 2015 - June 2016",
            "description": "Working in UIot & E-Governance EU project for ARCADIA project. Software design & development for service graph editor in java , data visualization using Sigmajs & D3 for IoT related projects, scripting in Python for data filtering of datasets."       
        }, {
            "employer": "Unisys",
@@ -42,14 +42,14 @@ var work = {
 
 var bio = {
 	"name" : "Srinivasan Arumugam",
-	"role" : "Web Developer",
+	"role" : "Application Analyst",
 	"contacts" : {
-		"mobile" : "353899842889",
+		"mobile" : "447477702321",
 		"email" : "srinithin@gmail.com",
 		"github" : "srinigalway",
 		"twitter" : "@sricheez",
 		"skype" : "sricheez",
-		"location" : "Galway, Ireland"
+		"location" : "London, United Kingdom"
 	},
 	"welcomeMessage" : "Welcome to my online resume page",
 	"skills" : [
